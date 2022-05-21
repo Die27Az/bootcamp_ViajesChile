@@ -1,0 +1,19 @@
+body {
+    padding: 0px;
+    margin: 0px;
+    background-color: #000;
+    font-family: 'Hind Siliguri', sans-serif;
+    color: #fff
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+
+a ,h2 {
+    text-decoration: none;
+    color: #fff;
+}
+
+
